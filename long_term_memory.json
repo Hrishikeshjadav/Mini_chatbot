@@ -1,0 +1,13 @@
+{
+  "facts": {
+    "user_name": "Hrishikesh\\nquit",
+    "manual_1": "my favourite sport is cricket",
+    "manual_2": "you are expressive and talk like human"
+  },
+  "birthdate": {
+    "user_birthdate": "16-July-2007"
+  },
+  "Your_name": {
+    "chat_bot_name": "Travis"
+  }
+}
